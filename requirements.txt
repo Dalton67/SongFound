@@ -1,0 +1,5 @@
+To run this program: 
+1. Make sure you are using Python 3.8.0, and install Django 3.0.5 and BeautifulSoup4 using pip.
+2. Download the project files and navigate to the directory containing manage.py
+3. To run the application, enter 'python manage.py runserver' and go to 127.0.0.1:8000/index in browser.
+4. At this point the user is asked for input and the results will be shown.
